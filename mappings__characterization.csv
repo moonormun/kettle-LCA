@@ -1,0 +1,5 @@
+﻿USLCI_name,TianGong_flow_name,TianGong_flow_UUID,factor_kg_CO2eq_per_kg,mapping_status
+Carbon dioxide,"carbon dioxide (fossil) (Mass, kg, Emissions to air, unspecified)",08a91e70-3ddc-11dd-923d-0050c2490048,1.0,assumed fossil origin / air compartment generalized
+Methane,"methane (fossil) (Mass, kg, Emissions to air, unspecified)",08a91e70-3ddc-11dd-9610-0050c2490048,29.8,assumed fossil origin / air compartment generalized
+Nitrous oxide,"nitrous oxide (Mass, kg, Emissions to air, unspecified)",08a91e70-3ddc-11dd-94c3-0050c2490048,273.0,substance-name match; air compartment generalized
+Sulfur hexafluoride,"sulphur hexafluoride (Mass, kg, Emissions to air, unspecified)",fe0acd60-3ddc-11dd-ac51-0050c2490048,25200.0,substance-name match; air compartment generalized

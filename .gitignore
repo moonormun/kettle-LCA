@@ -1,0 +1,5 @@
+cache/
+.env
+private-session/
+__pycache__/
+*.pyc

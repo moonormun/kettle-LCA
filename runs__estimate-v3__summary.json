@@ -1,0 +1,686 @@
+{
+  "status": "ASSUMPTION_FILLED_HYBRID_SCREENING",
+  "unit": "kg CO2-equivalent per manufactured packaged BC1 kettle",
+  "not_a_harmonized_full_LCA": true,
+  "scenario_range_is_not_confidence_interval": true,
+  "scenarios": {
+    "low": {
+      "total_kg_CO2eq": 3.6801745364929626,
+      "before_background_allowance_kg_CO2eq": 3.6801745364929626,
+      "scrap_kg": 0.022835451195629762,
+      "inbound_purchase_proxy_kg": 0.8865775511956299,
+      "contributions": [
+        {
+          "item": "Stainless steel",
+          "finished_kg": 0.186,
+          "purchased_kg": 0.18979591836734694,
+          "kg_CO2eq": 1.4928609438457923,
+          "status": "inherited partial model; scaled purchase mass"
+        },
+        {
+          "item": "Brass",
+          "finished_kg": 0.02025,
+          "purchased_kg": 0.020454545454545454,
+          "kg_CO2eq": 0.05727272727272727,
+          "status": "published factor or explicitly assumed proxy"
+        },
+        {
+          "item": "Copper",
+          "finished_kg": 0.015,
+          "purchased_kg": 0.015151515151515152,
+          "kg_CO2eq": 0.04242424242424242,
+          "status": "published factor or explicitly assumed proxy"
+        },
+        {
+          "item": "PP",
+          "finished_kg": 0.35025,
+          "purchased_kg": 0.35025,
+          "kg_CO2eq": 1.1472582331815075,
+          "status": "inherited partial model; scaled purchase mass"
+        },
+        {
+          "item": "PVC",
+          "finished_kg": 0.0435,
+          "purchased_kg": 0.04393939393939394,
+          "kg_CO2eq": 0.13380344160391944,
+          "status": "inherited partial model; scaled purchase mass"
+        },
+        {
+          "item": "Nylon",
+          "finished_kg": 0.0495,
+          "purchased_kg": 0.05,
+          "kg_CO2eq": 0.2821,
+          "status": "published factor or explicitly assumed proxy"
+        },
+        {
+          "item": "POM",
+          "finished_kg": 0.00975,
+          "purchased_kg": 0.009848484848484848,
+          "kg_CO2eq": 0.022198484848484846,
+          "status": "published factor or explicitly assumed proxy"
+        },
+        {
+          "item": "PC",
+          "finished_kg": 0.00675,
+          "purchased_kg": 0.006818181818181818,
+          "kg_CO2eq": 0.03846818181818182,
+          "status": "published factor or explicitly assumed proxy"
+        },
+        {
+          "item": "ABS",
+          "finished_kg": 0.03,
+          "purchased_kg": 0.030303030303030304,
+          "kg_CO2eq": 0.08830388916749746,
+          "status": "inherited partial model; scaled purchase mass"
+        },
+        {
+          "item": "Silicone",
+          "finished_kg": 0.012,
+          "purchased_kg": 0.012121212121212121,
+          "kg_CO2eq": 0.02256969696969697,
+          "status": "published factor or explicitly assumed proxy"
+        },
+        {
+          "item": "LDPE",
+          "finished_kg": 0.0063,
+          "purchased_kg": 0.006363636363636364,
+          "kg_CO2eq": 0.0169424581557939,
+          "status": "inherited partial model; scaled purchase mass"
+        },
+        {
+          "item": "Cardboard",
+          "finished_kg": 0.1315,
+          "purchased_kg": 0.13282828282828282,
+          "kg_CO2eq": 0.2825776816588188,
+          "status": "inherited partial model; scaled purchase mass"
+        },
+        {
+          "item": "Other polymer forming",
+          "finished_kg": null,
+          "purchased_kg": null,
+          "kg_CO2eq": 0.025248,
+          "status": "explicit assumption"
+        },
+        {
+          "item": "Metal component forming",
+          "finished_kg": null,
+          "purchased_kg": null,
+          "kg_CO2eq": 0.010260000000000002,
+          "status": "explicit assumption"
+        },
+        {
+          "item": "Assembly and testing",
+          "finished_kg": null,
+          "purchased_kg": null,
+          "kg_CO2eq": 0.006,
+          "status": "explicit assumption"
+        },
+        {
+          "item": "Packaging operation",
+          "finished_kg": null,
+          "purchased_kg": null,
+          "kg_CO2eq": 0.002,
+          "status": "explicit assumption"
+        },
+        {
+          "item": "Additional inbound transport",
+          "finished_kg": null,
+          "purchased_kg": null,
+          "kg_CO2eq": 0.005319465307173779,
+          "status": "explicit assumption"
+        },
+        {
+          "item": "Manufacturing scrap treatment",
+          "finished_kg": null,
+          "purchased_kg": null,
+          "kg_CO2eq": 0.004567090239125953,
+          "status": "explicit assumption"
+        },
+        {
+          "item": "Unresolved background allowance",
+          "finished_kg": null,
+          "purchased_kg": null,
+          "kg_CO2eq": 0.0,
+          "status": "explicit assumption"
+        }
+      ]
+    },
+    "central": {
+      "total_kg_CO2eq": 4.75859236027316,
+      "before_background_allowance_kg_CO2eq": 4.426951494263478,
+      "scrap_kg": 0.05350949561403513,
+      "inbound_purchase_proxy_kg": 0.9172515956140351,
+      "contributions": [
+        {
+          "item": "Stainless steel",
+          "finished_kg": 0.186,
+          "purchased_kg": 0.20666666666666667,
+          "kg_CO2eq": 1.6255596944098625,
+          "status": "inherited partial model; scaled purchase mass"
+        },
+        {
+          "item": "Brass",
+          "finished_kg": 0.02025,
+          "purchased_kg": 0.02131578947368421,
+          "kg_CO2eq": 0.08526315789473685,
+          "status": "published factor or explicitly assumed proxy"
+        },
+        {
+          "item": "Copper",
+          "finished_kg": 0.015,
+          "purchased_kg": 0.015789473684210527,
+          "kg_CO2eq": 0.06315789473684211,
+          "status": "published factor or explicitly assumed proxy"
+        },
+        {
+          "item": "PP",
+          "finished_kg": 0.35025,
+          "purchased_kg": 0.35025,
+          "kg_CO2eq": 1.1472582331815075,
+          "status": "inherited partial model; scaled purchase mass"
+        },
+        {
+          "item": "PVC",
+          "finished_kg": 0.0435,
+          "purchased_kg": 0.045789473684210526,
+          "kg_CO2eq": 0.1394372707240845,
+          "status": "inherited partial model; scaled purchase mass"
+        },
+        {
+          "item": "Nylon",
+          "finished_kg": 0.0495,
+          "purchased_kg": 0.052105263157894745,
+          "kg_CO2eq": 0.41996842105263166,
+          "status": "published factor or explicitly assumed proxy"
+        },
+        {
+          "item": "POM",
+          "finished_kg": 0.00975,
+          "purchased_kg": 0.010263157894736842,
+          "kg_CO2eq": 0.03304736842105263,
+          "status": "published factor or explicitly assumed proxy"
+        },
+        {
+          "item": "PC",
+          "finished_kg": 0.00675,
+          "purchased_kg": 0.007105263157894737,
+          "kg_CO2eq": 0.05726842105263158,
+          "status": "published factor or explicitly assumed proxy"
+        },
+        {
+          "item": "ABS",
+          "finished_kg": 0.03,
+          "purchased_kg": 0.031578947368421054,
+          "kg_CO2eq": 0.09202194765876051,
+          "status": "inherited partial model; scaled purchase mass"
+        },
+        {
+          "item": "Silicone",
+          "finished_kg": 0.012,
+          "purchased_kg": 0.012631578947368423,
+          "kg_CO2eq": 0.033600000000000005,
+          "status": "published factor or explicitly assumed proxy"
+        },
+        {
+          "item": "LDPE",
+          "finished_kg": 0.0063,
+          "purchased_kg": 0.0066315789473684215,
+          "kg_CO2eq": 0.017655824814985222,
+          "status": "inherited partial model; scaled purchase mass"
+        },
+        {
+          "item": "Cardboard",
+          "finished_kg": 0.1315,
+          "purchased_kg": 0.13842105263157897,
+          "kg_CO2eq": 0.2944756893076112,
+          "status": "inherited partial model; scaled purchase mass"
+        },
+        {
+          "item": "Other polymer forming",
+          "finished_kg": null,
+          "purchased_kg": null,
+          "kg_CO2eq": 0.141231,
+          "status": "explicit assumption"
+        },
+        {
+          "item": "Metal component forming",
+          "finished_kg": null,
+          "purchased_kg": null,
+          "kg_CO2eq": 0.064125,
+          "status": "explicit assumption"
+        },
+        {
+          "item": "Assembly and testing",
+          "finished_kg": null,
+          "purchased_kg": null,
+          "kg_CO2eq": 0.05,
+          "status": "explicit assumption"
+        },
+        {
+          "item": "Packaging operation",
+          "finished_kg": null,
+          "purchased_kg": null,
+          "kg_CO2eq": 0.01,
+          "status": "explicit assumption"
+        },
+        {
+          "item": "Additional inbound transport",
+          "finished_kg": null,
+          "purchased_kg": null,
+          "kg_CO2eq": 0.04586257978070176,
+          "status": "explicit assumption"
+        },
+        {
+          "item": "Manufacturing scrap treatment",
+          "finished_kg": null,
+          "purchased_kg": null,
+          "kg_CO2eq": 0.10701899122807026,
+          "status": "explicit assumption"
+        },
+        {
+          "item": "Unresolved background allowance",
+          "finished_kg": null,
+          "purchased_kg": null,
+          "kg_CO2eq": 0.3316408660096812,
+          "status": "explicit assumption"
+        }
+      ]
+    },
+    "high": {
+      "total_kg_CO2eq": 7.278800378242257,
+      "before_background_allowance_kg_CO2eq": 6.177284353006864,
+      "scrap_kg": 0.1138223611111111,
+      "inbound_purchase_proxy_kg": 0.9775644611111112,
+      "contributions": [
+        {
+          "item": "Stainless steel",
+          "finished_kg": 0.186,
+          "purchased_kg": 0.248,
+          "kg_CO2eq": 1.950671633291835,
+          "status": "inherited partial model; scaled purchase mass"
+        },
+        {
+          "item": "Brass",
+          "finished_kg": 0.02025,
+          "purchased_kg": 0.0225,
+          "kg_CO2eq": 0.11699999999999999,
+          "status": "published factor or explicitly assumed proxy"
+        },
+        {
+          "item": "Copper",
+          "finished_kg": 0.015,
+          "purchased_kg": 0.016666666666666666,
+          "kg_CO2eq": 0.08666666666666667,
+          "status": "published factor or explicitly assumed proxy"
+        },
+        {
+          "item": "PP",
+          "finished_kg": 0.35025,
+          "purchased_kg": 0.35025,
+          "kg_CO2eq": 1.1472582331815075,
+          "status": "inherited partial model; scaled purchase mass"
+        },
+        {
+          "item": "PVC",
+          "finished_kg": 0.0435,
+          "purchased_kg": 0.048333333333333325,
+          "kg_CO2eq": 0.14718378576431138,
+          "status": "inherited partial model; scaled purchase mass"
+        },
+        {
+          "item": "Nylon",
+          "finished_kg": 0.0495,
+          "purchased_kg": 0.055,
+          "kg_CO2eq": 0.5762900000000001,
+          "status": "published factor or explicitly assumed proxy"
+        },
+        {
+          "item": "POM",
+          "finished_kg": 0.00975,
+          "purchased_kg": 0.010833333333333334,
+          "kg_CO2eq": 0.045348333333333345,
+          "status": "published factor or explicitly assumed proxy"
+        },
+        {
+          "item": "PC",
+          "finished_kg": 0.00675,
+          "purchased_kg": 0.0075,
+          "kg_CO2eq": 0.078585,
+          "status": "published factor or explicitly assumed proxy"
+        },
+        {
+          "item": "ABS",
+          "finished_kg": 0.03,
+          "purchased_kg": 0.03333333333333333,
+          "kg_CO2eq": 0.0971342780842472,
+          "status": "inherited partial model; scaled purchase mass"
+        },
+        {
+          "item": "Silicone",
+          "finished_kg": 0.012,
+          "purchased_kg": 0.013333333333333332,
+          "kg_CO2eq": 0.046106666666666664,
+          "status": "published factor or explicitly assumed proxy"
+        },
+        {
+          "item": "LDPE",
+          "finished_kg": 0.0063,
+          "purchased_kg": 0.007,
+          "kg_CO2eq": 0.01863670397137329,
+          "status": "inherited partial model; scaled purchase mass"
+        },
+        {
+          "item": "Cardboard",
+          "finished_kg": 0.1315,
+          "purchased_kg": 0.1461111111111111,
+          "kg_CO2eq": 0.3108354498247007,
+          "status": "inherited partial model; scaled purchase mass"
+        },
+        {
+          "item": "Other polymer forming",
+          "finished_kg": null,
+          "purchased_kg": null,
+          "kg_CO2eq": 0.37872,
+          "status": "explicit assumption"
+        },
+        {
+          "item": "Metal component forming",
+          "finished_kg": null,
+          "purchased_kg": null,
+          "kg_CO2eq": 0.20520000000000002,
+          "status": "explicit assumption"
+        },
+        {
+          "item": "Assembly and testing",
+          "finished_kg": null,
+          "purchased_kg": null,
+          "kg_CO2eq": 0.24,
+          "status": "explicit assumption"
+        },
+        {
+          "item": "Packaging operation",
+          "finished_kg": null,
+          "purchased_kg": null,
+          "kg_CO2eq": 0.04000000000000001,
+          "status": "explicit assumption"
+        },
+        {
+          "item": "Additional inbound transport",
+          "finished_kg": null,
+          "purchased_kg": null,
+          "kg_CO2eq": 0.2932693383333333,
+          "status": "explicit assumption"
+        },
+        {
+          "item": "Manufacturing scrap treatment",
+          "finished_kg": null,
+          "purchased_kg": null,
+          "kg_CO2eq": 0.39837826388888886,
+          "status": "explicit assumption"
+        },
+        {
+          "item": "Unresolved background allowance",
+          "finished_kg": null,
+          "purchased_kg": null,
+          "kg_CO2eq": 1.1015160252353924,
+          "status": "explicit assumption"
+        }
+      ]
+    }
+  },
+  "one_at_a_time_sensitivity": [
+    {
+      "parameter": "steel_yield",
+      "case": "low",
+      "value": 0.98,
+      "total_kg_CO2eq": 4.578038700639077,
+      "delta_kg_CO2eq": -0.1805536596340831
+    },
+    {
+      "parameter": "steel_yield",
+      "case": "high",
+      "value": 0.75,
+      "total_kg_CO2eq": 5.200948826376663,
+      "delta_kg_CO2eq": 0.44235646610350265
+    },
+    {
+      "parameter": "other_yield",
+      "case": "low",
+      "value": 0.99,
+      "total_kg_CO2eq": 4.678164085293119,
+      "delta_kg_CO2eq": -0.0804282749800409
+    },
+    {
+      "parameter": "other_yield",
+      "case": "high",
+      "value": 0.9,
+      "total_kg_CO2eq": 4.869181238370714,
+      "delta_kg_CO2eq": 0.11058887809755369
+    },
+    {
+      "parameter": "electricity_kg_kWh",
+      "case": "low",
+      "value": 0.2,
+      "total_kg_CO2eq": 4.59937876027316,
+      "delta_kg_CO2eq": -0.15921360000000018
+    },
+    {
+      "parameter": "electricity_kg_kWh",
+      "case": "high",
+      "value": 0.8,
+      "total_kg_CO2eq": 4.917805960273159,
+      "delta_kg_CO2eq": 0.1592135999999993
+    },
+    {
+      "parameter": "polymer_forming_kWh_kg",
+      "case": "low",
+      "value": 0.8,
+      "total_kg_CO2eq": 4.680481360273159,
+      "delta_kg_CO2eq": -0.07811100000000071
+    },
+    {
+      "parameter": "polymer_forming_kWh_kg",
+      "case": "high",
+      "value": 3.0,
+      "total_kg_CO2eq": 4.8540613602731595,
+      "delta_kg_CO2eq": 0.09546899999999958
+    },
+    {
+      "parameter": "metal_forming_kWh_kg",
+      "case": "low",
+      "value": 0.2,
+      "total_kg_CO2eq": 4.730692360273159,
+      "delta_kg_CO2eq": -0.027900000000000702
+    },
+    {
+      "parameter": "metal_forming_kWh_kg",
+      "case": "high",
+      "value": 1.0,
+      "total_kg_CO2eq": 4.80509236027316,
+      "delta_kg_CO2eq": 0.046499999999999986
+    },
+    {
+      "parameter": "smallmetal_forming_kWh_kg",
+      "case": "low",
+      "value": 0.4,
+      "total_kg_CO2eq": 4.74801736027316,
+      "delta_kg_CO2eq": -0.010575000000000223
+    },
+    {
+      "parameter": "smallmetal_forming_kWh_kg",
+      "case": "high",
+      "value": 2.0,
+      "total_kg_CO2eq": 4.77621736027316,
+      "delta_kg_CO2eq": 0.01762499999999978
+    },
+    {
+      "parameter": "assembly_kWh",
+      "case": "low",
+      "value": 0.03,
+      "total_kg_CO2eq": 4.72359236027316,
+      "delta_kg_CO2eq": -0.03500000000000014
+    },
+    {
+      "parameter": "assembly_kWh",
+      "case": "high",
+      "value": 0.3,
+      "total_kg_CO2eq": 4.8585923602731595,
+      "delta_kg_CO2eq": 0.09999999999999964
+    },
+    {
+      "parameter": "packaging_kWh",
+      "case": "low",
+      "value": 0.01,
+      "total_kg_CO2eq": 4.753592360273159,
+      "delta_kg_CO2eq": -0.005000000000000782
+    },
+    {
+      "parameter": "packaging_kWh",
+      "case": "high",
+      "value": 0.05,
+      "total_kg_CO2eq": 4.77359236027316,
+      "delta_kg_CO2eq": 0.01499999999999968
+    },
+    {
+      "parameter": "inbound_km",
+      "case": "low",
+      "value": 100,
+      "total_kg_CO2eq": 4.721902296448598,
+      "delta_kg_CO2eq": -0.03669006382456175
+    },
+    {
+      "parameter": "inbound_km",
+      "case": "high",
+      "value": 1500,
+      "total_kg_CO2eq": 4.850317519834563,
+      "delta_kg_CO2eq": 0.09172515956140348
+    },
+    {
+      "parameter": "truck_kg_tkm",
+      "case": "low",
+      "value": 0.06,
+      "total_kg_CO2eq": 4.740247328360879,
+      "delta_kg_CO2eq": -0.018345031912280874
+    },
+    {
+      "parameter": "truck_kg_tkm",
+      "case": "high",
+      "value": 0.2,
+      "total_kg_CO2eq": 4.804454940053861,
+      "delta_kg_CO2eq": 0.045862579780701296
+    },
+    {
+      "parameter": "scrap_kg_kg",
+      "case": "low",
+      "value": 0.2,
+      "total_kg_CO2eq": 4.662275268167896,
+      "delta_kg_CO2eq": -0.09631709210526385
+    },
+    {
+      "parameter": "scrap_kg_kg",
+      "case": "high",
+      "value": 3.5,
+      "total_kg_CO2eq": 4.838856603694212,
+      "delta_kg_CO2eq": 0.08026424342105187
+    },
+    {
+      "parameter": "background_allowance_fraction",
+      "case": "low",
+      "value": 0,
+      "total_kg_CO2eq": 4.426951494263478,
+      "delta_kg_CO2eq": -0.3316408660096819
+    },
+    {
+      "parameter": "background_allowance_fraction",
+      "case": "high",
+      "value": 0.3,
+      "total_kg_CO2eq": 5.421874092292522,
+      "delta_kg_CO2eq": 0.663281732019362
+    },
+    {
+      "parameter": "factor_Brass",
+      "case": "low",
+      "value": 2.8,
+      "total_kg_CO2eq": 4.7330134129047385,
+      "delta_kg_CO2eq": -0.025578947368421368
+    },
+    {
+      "parameter": "factor_Brass",
+      "case": "high",
+      "value": 5.2,
+      "total_kg_CO2eq": 4.78417130764158,
+      "delta_kg_CO2eq": 0.02557894736842048
+    },
+    {
+      "parameter": "factor_Copper",
+      "case": "low",
+      "value": 2.8,
+      "total_kg_CO2eq": 4.739644991852106,
+      "delta_kg_CO2eq": -0.01894736842105349
+    },
+    {
+      "parameter": "factor_Copper",
+      "case": "high",
+      "value": 5.2,
+      "total_kg_CO2eq": 4.7775397286942125,
+      "delta_kg_CO2eq": 0.0189473684210526
+    },
+    {
+      "parameter": "factor_Nylon",
+      "case": "low",
+      "value": 5.642,
+      "total_kg_CO2eq": 4.63260183395737,
+      "delta_kg_CO2eq": -0.12599052631578989
+    },
+    {
+      "parameter": "factor_Nylon",
+      "case": "high",
+      "value": 10.478000000000002,
+      "total_kg_CO2eq": 4.884582886588949,
+      "delta_kg_CO2eq": 0.125990526315789
+    },
+    {
+      "parameter": "factor_POM",
+      "case": "low",
+      "value": 2.254,
+      "total_kg_CO2eq": 4.748678149746843,
+      "delta_kg_CO2eq": -0.00991421052631658
+    },
+    {
+      "parameter": "factor_POM",
+      "case": "high",
+      "value": 4.186000000000001,
+      "total_kg_CO2eq": 4.768506570799476,
+      "delta_kg_CO2eq": 0.009914210526315692
+    },
+    {
+      "parameter": "factor_PC",
+      "case": "low",
+      "value": 5.642,
+      "total_kg_CO2eq": 4.74141183395737,
+      "delta_kg_CO2eq": -0.017180526315789812
+    },
+    {
+      "parameter": "factor_PC",
+      "case": "high",
+      "value": 10.478000000000002,
+      "total_kg_CO2eq": 4.775772886588949,
+      "delta_kg_CO2eq": 0.017180526315788924
+    },
+    {
+      "parameter": "factor_Silicone",
+      "case": "low",
+      "value": 1.8619999999999999,
+      "total_kg_CO2eq": 4.74851236027316,
+      "delta_kg_CO2eq": -0.010080000000000311
+    },
+    {
+      "parameter": "factor_Silicone",
+      "case": "high",
+      "value": 3.458,
+      "total_kg_CO2eq": 4.768672360273159,
+      "delta_kg_CO2eq": 0.010079999999999423
+    }
+  ],
+  "checks": "BOM mass, finite contributions, sum and scenario ordering passed"
+}

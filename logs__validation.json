@@ -1,0 +1,26 @@
+{
+  "status": "passed for incomplete screening implementation",
+  "checks": [
+    "BOM arithmetic",
+    "missing materials remain null",
+    "contribution sum",
+    "analytic one-parameter sensitivity",
+    "linear residual",
+    "library inverse residual",
+    "recorded natural-gas property conversion",
+    "independent rerun equality"
+  ],
+  "identical_artifacts": [
+    "runs/baseline/contributions.json",
+    "runs/scenario/contributions.json",
+    "runs/baseline/elementary-inventory.csv",
+    "runs/baseline/unresolved-exchanges.csv",
+    "mappings/unit-conversions.json"
+  ],
+  "not_validated": [
+    "full product scope",
+    "supplier closure",
+    "complete LCIA",
+    "real product foreground assumptions"
+  ]
+}

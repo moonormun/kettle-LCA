@@ -1,0 +1,55 @@
+{
+  "BOM_mass": {
+    "status": "pass",
+    "product_g": 723,
+    "packaging_g": 137.8,
+    "total_g": 860.8
+  },
+  "GWP_contribution_sum": {
+    "status": "pass for diagnostic only",
+    "sum": 3.126673154030553,
+    "reported": 3.126673154030553
+  },
+  "supplier_closure": {
+    "status": "fail",
+    "unresolved_scaled_rows": 1652,
+    "note": "rows repeat by material root; includes unlinked coproducts and waste, not just missing inputs"
+  },
+  "full_material_coverage": {
+    "status": "fail",
+    "mapped_g": 747.55,
+    "unmapped_g": 113.25,
+    "percent": 86.84363382899627
+  },
+  "matrix_residual": {
+    "status": "pass",
+    "maximum_absolute_residual": 8.888777636808746e-17
+  },
+  "library_inverse": {
+    "status": "pass",
+    "maximum_absolute_residual": 3.552713678800501e-15
+  },
+  "PP_mass_balance": {
+    "status": "fail for exact product-specific mass balance",
+    "per_kg_part_resin_plus_colorant": 1.0534,
+    "part_plus_scrap": 1.045,
+    "difference_kg": 0.0084,
+    "note": "source averaged recipe; not corrected by inventing a product recipe"
+  },
+  "double_counting": {
+    "status": "partially checked",
+    "checks": [
+      "PP upstream resin and electricity not added again",
+      "component shipping corrugate removed from PP process, exact overrides recorded",
+      "no extra steel rolling added",
+      "library matrix inventories used once; not zero metadata",
+      "no invented substitution credit"
+    ],
+    "unresolved": "other component forming and assembly inventories missing"
+  },
+  "characterization": {
+    "status": "fail for full LCIA",
+    "nonzero_uncharacterized_material_flow_rows": 12844,
+    "note": "many flows have no climate relevance, but complete substance mapping and carbon origin review remain incomplete"
+  }
+}

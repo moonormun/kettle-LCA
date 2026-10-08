@@ -1,0 +1,80 @@
+[
+  {
+    "material": "Stainless steel",
+    "mass_g": 186,
+    "diagnostic_4gas_kg_CO2eq": 1.6255596944098627,
+    "status": "partial supply chain; 4-gas diagnostic only",
+    "characterized_flow_records": 16
+  },
+  {
+    "material": "Brass",
+    "mass_g": 20.25,
+    "diagnostic_4gas_kg_CO2eq": null,
+    "status": "unmatched material"
+  },
+  {
+    "material": "Copper",
+    "mass_g": 15,
+    "diagnostic_4gas_kg_CO2eq": null,
+    "status": "unmatched material"
+  },
+  {
+    "material": "PP",
+    "mass_g": 350.25,
+    "diagnostic_4gas_kg_CO2eq": 1.1472582331815075,
+    "status": "partial supply chain; 4-gas diagnostic only",
+    "characterized_flow_records": 16
+  },
+  {
+    "material": "PVC",
+    "mass_g": 43.5,
+    "diagnostic_4gas_kg_CO2eq": 0.13246540718788025,
+    "status": "partial supply chain; 4-gas diagnostic only",
+    "characterized_flow_records": 16
+  },
+  {
+    "material": "Nylon",
+    "mass_g": 49.5,
+    "diagnostic_4gas_kg_CO2eq": null,
+    "status": "unmatched material"
+  },
+  {
+    "material": "POM",
+    "mass_g": 9.75,
+    "diagnostic_4gas_kg_CO2eq": null,
+    "status": "unmatched material"
+  },
+  {
+    "material": "PC",
+    "mass_g": 6.75,
+    "diagnostic_4gas_kg_CO2eq": null,
+    "status": "unmatched material"
+  },
+  {
+    "material": "ABS",
+    "mass_g": 30,
+    "diagnostic_4gas_kg_CO2eq": 0.08742085027582248,
+    "status": "partial supply chain; 4-gas diagnostic only",
+    "characterized_flow_records": 16
+  },
+  {
+    "material": "Silicone",
+    "mass_g": 12,
+    "diagnostic_4gas_kg_CO2eq": null,
+    "status": "unmatched material"
+  },
+  {
+    "material": "LDPE",
+    "mass_g": 6.3,
+    "diagnostic_4gas_kg_CO2eq": 0.01677303357423596,
+    "status": "partial supply chain; 4-gas diagnostic only",
+    "characterized_flow_records": 16
+  },
+  {
+    "material": "Cardboard",
+    "mass_g": 131.5,
+    "diagnostic_4gas_kg_CO2eq": 0.2797519048422306,
+    "status": "partial supply chain; 4-gas diagnostic only",
+    "characterized_flow_records": 16
+  }
+]

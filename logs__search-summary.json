@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-08",
+  "search_mode": "case-insensitive English process-name substring search; not exhaustive multilingual semantic retrieval",
+  "USLCI_process_count": 962,
+  "TianGong_process_count": 4132,
+  "counts": {
+    "Stainless steel / USLCI": 3,
+    "Stainless steel / TianGong": 4,
+    "Brass / USLCI": 0,
+    "Brass / TianGong": 3,
+    "Copper / USLCI": 1,
+    "Copper / TianGong": 88,
+    "PP / USLCI": 4,
+    "PP / TianGong": 10,
+    "PVC / USLCI": 1,
+    "PVC / TianGong": 10,
+    "Nylon / USLCI": 0,
+    "Nylon / TianGong": 8,
+    "POM / USLCI": 0,
+    "POM / TianGong": 0,
+    "PC / USLCI": 0,
+    "PC / TianGong": 2,
+    "ABS / USLCI": 1,
+    "ABS / TianGong": 0,
+    "Silicone / USLCI": 0,
+    "Silicone / TianGong": 1,
+    "LDPE / USLCI": 3,
+    "LDPE / TianGong": 1,
+    "Cardboard / USLCI": 2,
+    "Cardboard / TianGong": 10
+  }
+}

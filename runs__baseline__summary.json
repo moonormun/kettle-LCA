@@ -1,0 +1,30 @@
+{
+  "run_id": "public-screening-20261008-baseline",
+  "status": "INCOMPLETE_SCREENING",
+  "full_kettle_GWP100_kg_CO2eq": null,
+  "diagnostic_4gas_partial_subtotal_kg_CO2eq": 3.126673154030553,
+  "warning": "NOT full kettle footprint, NOT lower bound; excludes unmapped materials, missing foreground processes, unresolved supply chain and uncharacterized gases. Generic CO2/CH4 assumed fossil including possible biogenic flows.",
+  "BOM_total_g": 860.8,
+  "mapped_BOM_mass_g": 747.55,
+  "missing_materials": [
+    "Brass",
+    "Copper",
+    "Nylon",
+    "POM",
+    "PC",
+    "Silicone"
+  ],
+  "reachable_USLCI_process_count": 194,
+  "reachable_library_provider_count": 6,
+  "unresolved_scaled_exchange_rows": 1652,
+  "solver_max_abs_residual": 8.888777636808746e-17,
+  "electricity_library_inverse_max_abs_residual": 3.552713678800501e-15,
+  "scenario": {
+    "run_id": "public-screening-20261008-steel-yield-90",
+    "changed_decision": "steel yield 1.0 -> 0.9; additional scrap treatment still unresolved",
+    "diagnostic_partial_subtotal_kg_CO2eq": 3.2892291234715394,
+    "difference_kg_CO2eq": 0.16255596944098638,
+    "difference_percent": 5.199007425238472
+  },
+  "uncertainty": "not calculated; no defensible parameter distributions"
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "process": "89a2b59a-1ca2-34f5-acc8-a8eaaa6fa870",
+    "exchange": 20,
+    "original_amount": 0.1,
+    "model_amount": 0,
+    "reason": "BOM packaging is modeled separately; component-shipping packaging excluded as declared modeling choice"
+  },
+  {
+    "process": "89a2b59a-1ca2-34f5-acc8-a8eaaa6fa870",
+    "exchange": 37,
+    "original_amount": 0.1,
+    "model_amount": 0,
+    "reason": "BOM packaging is modeled separately; component-shipping packaging excluded as declared modeling choice"
+  }
+]

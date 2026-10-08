@@ -1,0 +1,110 @@
+[
+  {
+    "flow_id": "1a34bf95-f897-4af9-b70c-368fce9e41d6",
+    "source_unit": "m3",
+    "target_unit": "kg",
+    "source_property_factor": 1.357,
+    "target_property_factor": 1.0,
+    "quantity_multiplier": 0.7369196757553427,
+    "source": "USLCI flowProperties conversionFactor"
+  },
+  {
+    "flow_id": "ea8515c5-e3d4-4f42-a856-67a9b85b30a0",
+    "source_unit": "MJ",
+    "target_unit": "m3",
+    "source_property_factor": 38.622,
+    "target_property_factor": 1.0,
+    "quantity_multiplier": 0.02589197866500958,
+    "source": "USLCI flowProperties conversionFactor"
+  },
+  {
+    "flow_id": "1a34bf95-f897-4af9-b70c-368fce9e41d6",
+    "source_unit": "m3",
+    "target_unit": "kg",
+    "source_property_factor": 1.357,
+    "target_property_factor": 1.0,
+    "quantity_multiplier": 0.7369196757553427,
+    "source": "USLCI flowProperties conversionFactor"
+  },
+  {
+    "flow_id": "1a34bf95-f897-4af9-b70c-368fce9e41d6",
+    "source_unit": "m3",
+    "target_unit": "kg",
+    "source_property_factor": 1.357,
+    "target_property_factor": 1.0,
+    "quantity_multiplier": 0.7369196757553427,
+    "source": "USLCI flowProperties conversionFactor"
+  },
+  {
+    "flow_id": "1a34bf95-f897-4af9-b70c-368fce9e41d6",
+    "source_unit": "m3",
+    "target_unit": "kg",
+    "source_property_factor": 1.357,
+    "target_property_factor": 1.0,
+    "quantity_multiplier": 0.7369196757553427,
+    "source": "USLCI flowProperties conversionFactor"
+  },
+  {
+    "flow_id": "ea8515c5-e3d4-4f42-a856-67a9b85b30a0",
+    "source_unit": "MJ",
+    "target_unit": "m3",
+    "source_property_factor": 38.622,
+    "target_property_factor": 1.0,
+    "quantity_multiplier": 0.02589197866500958,
+    "source": "USLCI flowProperties conversionFactor"
+  },
+  {
+    "flow_id": "1a34bf95-f897-4af9-b70c-368fce9e41d6",
+    "source_unit": "m3",
+    "target_unit": "kg",
+    "source_property_factor": 1.357,
+    "target_property_factor": 1.0,
+    "quantity_multiplier": 0.7369196757553427,
+    "source": "USLCI flowProperties conversionFactor"
+  },
+  {
+    "flow_id": "1a34bf95-f897-4af9-b70c-368fce9e41d6",
+    "source_unit": "m3",
+    "target_unit": "kg",
+    "source_property_factor": 1.357,
+    "target_property_factor": 1.0,
+    "quantity_multiplier": 0.7369196757553427,
+    "source": "USLCI flowProperties conversionFactor"
+  },
+  {
+    "flow_id": "1a34bf95-f897-4af9-b70c-368fce9e41d6",
+    "source_unit": "m3",
+    "target_unit": "kg",
+    "source_property_factor": 1.357,
+    "target_property_factor": 1.0,
+    "quantity_multiplier": 0.7369196757553427,
+    "source": "USLCI flowProperties conversionFactor"
+  },
+  {
+    "flow_id": "1a34bf95-f897-4af9-b70c-368fce9e41d6",
+    "source_unit": "m3",
+    "target_unit": "kg",
+    "source_property_factor": 1.357,
+    "target_property_factor": 1.0,
+    "quantity_multiplier": 0.7369196757553427,
+    "source": "USLCI flowProperties conversionFactor"
+  },
+  {
+    "flow_id": "1a34bf95-f897-4af9-b70c-368fce9e41d6",
+    "source_unit": "m3",
+    "target_unit": "kg",
+    "source_property_factor": 1.357,
+    "target_property_factor": 1.0,
+    "quantity_multiplier": 0.7369196757553427,
+    "source": "USLCI flowProperties conversionFactor"
+  },
+  {
+    "flow_id": "c837f7c6-1f8d-4f62-ade8-4f2a73b41b1a",
+    "source_unit": "m3",
+    "target_unit": "kg",
+    "source_property_factor": 1.357,
+    "target_property_factor": 1.0,
+    "quantity_multiplier": 0.7369196757553427,
+    "source": "USLCI flowProperties conversionFactor"
+  }
+]

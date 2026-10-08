@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "checks": [
+    "all 12 BOM materials numeric",
+    "sum and BOM",
+    "scenario ordering",
+    "independent rerun byte equality"
+  ],
+  "not_validated": [
+    "physical supplier closure",
+    "harmonized LCIA",
+    "assumption accuracy"
+  ]
+}

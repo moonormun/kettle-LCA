@@ -1,0 +1,36 @@
+{
+  "status": "LITERATURE_REFERENCE_NOT_TWO_DATABASE_RESULT",
+  "source": "Preparatory study for Kettles, final report, May 2021",
+  "source_pdf_page": 169,
+  "table": "5-7",
+  "declared_unit": "one BC1 manufactured and packaged kettle",
+  "published_rounded_GWP100_kg_CO2eq": {
+    "materials": 3,
+    "manufacture": 1,
+    "production_total": 4
+  },
+  "annex_E_pdf_page": 193,
+  "annex_E_material_only_estimates": [
+    {
+      "material": "Silicone",
+      "mass_kg": 0.012,
+      "published_GWP_kg_CO2eq_per_kg": 2.66,
+      "material_only_kg_CO2eq": 0.031920000000000004
+    },
+    {
+      "material": "Nylon",
+      "mass_kg": 0.0495,
+      "published_GWP_kg_CO2eq_per_kg": 8.06,
+      "material_only_kg_CO2eq": 0.39897000000000005
+    },
+    {
+      "material": "POM",
+      "mass_kg": 0.00975,
+      "published_GWP_kg_CO2eq_per_kg": 3.22,
+      "material_only_kg_CO2eq": 0.031395
+    }
+  ],
+  "annex_E_three_material_sum_kg_CO2eq": 0.46228500000000006,
+  "combine_with_USLCI_subtotal": false,
+  "reason": "Different background inventories, characterization and system implementation; not a completed harmonized model."
+}

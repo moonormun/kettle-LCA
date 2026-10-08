@@ -1,0 +1,20 @@
+﻿item,finished_kg,purchased_kg,kg_CO2eq,status
+Stainless steel,0.186,0.20666666666666667,1.6255596944098625,inherited partial model; scaled purchase mass
+Brass,0.02025,0.02131578947368421,0.08526315789473685,published factor or explicitly assumed proxy
+Copper,0.015,0.015789473684210527,0.06315789473684211,published factor or explicitly assumed proxy
+PP,0.35025,0.35025,1.1472582331815075,inherited partial model; scaled purchase mass
+PVC,0.0435,0.045789473684210526,0.1394372707240845,inherited partial model; scaled purchase mass
+Nylon,0.0495,0.052105263157894745,0.41996842105263166,published factor or explicitly assumed proxy
+POM,0.00975,0.010263157894736842,0.03304736842105263,published factor or explicitly assumed proxy
+PC,0.00675,0.007105263157894737,0.05726842105263158,published factor or explicitly assumed proxy
+ABS,0.03,0.031578947368421054,0.09202194765876051,inherited partial model; scaled purchase mass
+Silicone,0.012,0.012631578947368423,0.033600000000000005,published factor or explicitly assumed proxy
+LDPE,0.0063,0.0066315789473684215,0.017655824814985222,inherited partial model; scaled purchase mass
+Cardboard,0.1315,0.13842105263157897,0.2944756893076112,inherited partial model; scaled purchase mass
+Other polymer forming,,,0.141231,explicit assumption
+Metal component forming,,,0.064125,explicit assumption
+Assembly and testing,,,0.05,explicit assumption
+Packaging operation,,,0.01,explicit assumption
+Additional inbound transport,,,0.04586257978070176,explicit assumption
+Manufacturing scrap treatment,,,0.10701899122807026,explicit assumption
+Unresolved background allowance,,,0.3316408660096812,explicit assumption

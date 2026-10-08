@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-08",
+  "authorization": "User requested missing values be filled with approximations/assumptions and recorded.",
+  "scenarios": {
+    "low": {
+      "steel_yield": 0.98,
+      "other_yield": 0.99,
+      "electricity_kg_kWh": 0.2,
+      "polymer_forming_kWh_kg": 0.8,
+      "metal_forming_kWh_kg": 0.2,
+      "smallmetal_forming_kWh_kg": 0.4,
+      "assembly_kWh": 0.03,
+      "packaging_kWh": 0.01,
+      "inbound_km": 100,
+      "truck_kg_tkm": 0.06,
+      "scrap_kg_kg": 0.2,
+      "background_allowance_fraction": 0,
+      "material_factors": {
+        "Brass": 2.8,
+        "Copper": 2.8,
+        "Nylon": 5.642,
+        "POM": 2.254,
+        "PC": 5.642,
+        "Silicone": 1.8619999999999999
+      }
+    },
+    "central": {
+      "steel_yield": 0.9,
+      "other_yield": 0.95,
+      "electricity_kg_kWh": 0.5,
+      "polymer_forming_kWh_kg": 1.79,
+      "metal_forming_kWh_kg": 0.5,
+      "smallmetal_forming_kWh_kg": 1.0,
+      "assembly_kWh": 0.1,
+      "packaging_kWh": 0.02,
+      "inbound_km": 500,
+      "truck_kg_tkm": 0.1,
+      "scrap_kg_kg": 2.0,
+      "background_allowance_fraction": 0.1,
+      "material_factors": {
+        "Brass": 4.0,
+        "Copper": 4.0,
+        "Nylon": 8.06,
+        "POM": 3.22,
+        "PC": 8.06,
+        "Silicone": 2.66
+      }
+    },
+    "high": {
+      "steel_yield": 0.75,
+      "other_yield": 0.9,
+      "electricity_kg_kWh": 0.8,
+      "polymer_forming_kWh_kg": 3.0,
+      "metal_forming_kWh_kg": 1.0,
+      "smallmetal_forming_kWh_kg": 2.0,
+      "assembly_kWh": 0.3,
+      "packaging_kWh": 0.05,
+      "inbound_km": 1500,
+      "truck_kg_tkm": 0.2,
+      "scrap_kg_kg": 3.5,
+      "background_allowance_fraction": 0.3,
+      "material_factors": {
+        "Brass": 5.2,
+        "Copper": 5.2,
+        "Nylon": 10.478000000000002,
+        "POM": 4.186000000000001,
+        "PC": 10.478000000000002,
+        "Silicone": 3.458
+      }
+    }
+  },
+  "evidence": {
+    "material_factors": "Copper 4.0: Copper Information Center, 2023-11-17, 4 tonnes GHG/tonne cathode; Brass: assumed copper proxy (no actual alloy composition); Nylon 8.06/POM 3.22/Silicone 2.66: kettle study Annex E, PDF193; PC: assumed nylon proxy, not measured PC factor. All low/high factor ranges +/-30% are analyst-selected.",
+    "steel_yield": "assumed 0.90; low-impact 0.98, high-impact 0.75; not measured yield",
+    "other_yield": "assumed uniform 0.95 excluding PP; low 0.99/high 0.90; includes packaging procurement loss",
+    "polymer_forming_kWh_kg": "proxy from USLCI PP injection 6.444 MJ/kg /3.6 =1.79 kWh/kg, applied to all non-PP polymer finished mass including silicone cure/LDPE conversion as coarse proxy",
+    "electricity_kg_kWh": "assumed round screening factor 0.5 kg CO2e/kWh, not a measured or country-specific grid factor",
+    "metal_forming_kWh_kg": "assumed 0.5 kWh/kg finished stainless; excludes rolling already included in coil factor",
+    "smallmetal_forming_kWh_kg": "assumed 1 kWh/kg copper/brass finished parts",
+    "assembly_kWh": "assumed 0.1 kWh/kettle including testing",
+    "packaging_kWh": "assumed 0.02 kWh/kettle; packaging operation only, cardboard production already counted",
+    "inbound_km": "assumed additional supplier-to-kettle-factory distance 500 km; excludes finished-product distribution",
+    "truck_kg_tkm": "assumed 0.1 kg CO2e/t-km; not claimed as government dataset",
+    "scrap_kg_kg": "assumed average 2 kg CO2e/kg newly modeled manufacturing loss plus PP scrap, no recycling credit; crude mixed waste route",
+    "background_allowance_fraction": "assumed 10% of scaled inherited six-material subtotal for unresolved upstream inputs/uncharacterized greenhouse flows. Accounting allowance only, not linked LCI or empirically justified correction. Low0/high30%. Does not fix biogenic-carbon or allocation differences."
+  },
+  "source_urls": [
+    "https://help.copper.fyi/hc/en-us/articles/6318125638940-What-is-the-Copper-Environmental-Profile",
+    "https://publica-rest.fraunhofer.de/server/api/core/bitstreams/3df3f4d6-3717-4261-99e3-a232323111d6/content"
+  ],
+  "range_warning": "Analyst-selected stress scenarios, not statistical uncertainty or guaranteed bounds."
+}
